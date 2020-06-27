@@ -1,16 +1,13 @@
 # PhoeniX UserBot
-![PhoeniX LOGO](https://telegra.ph/file/0d8898a906cb516e480ef.jpg)
 
 ### All thanks to Raphielgang/Paperplane, UniBorg, X-Tra-Telegram UserBots; which helped me to make PhoeniX UserBot.
 
 ## Documentation/Guide, visit [How2Techy](https://how2techy.com/x-tra-userbot-plugin-guide-part1/) 
-The above guide is of X-tra-Telegram UserBot. It will be updated later :)
+The above guide is of X-tra-Telegram UserBot.
 
 ### Installation
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-You must have a Heroku Account for this.
+~~Deploy to Heroku~~ **DISCONTINUED**
 
 ## Mandatory Vars
 
